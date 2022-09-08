@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/../DataModule/DataModule.iml" filepath="$PROJECT_DIR$/../DataModule/DataModule.iml" />
       <module fileurl="file://$PROJECT_DIR$/ReadFileRandomly.iml" filepath="$PROJECT_DIR$/ReadFileRandomly.iml" />
     </modules>
   </component>
